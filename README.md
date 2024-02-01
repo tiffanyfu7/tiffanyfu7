@@ -1,6 +1,9 @@
 <html>
-  <body>
-    <pre>
+  <pre>
+    <body>
+      
+Tiffany Fu's Github Profile.
+(c) 2024 TF Inc. All Rights Reserved. 
 [#####################################################################################]
 [hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh]
 [eeeeeeeeeeeeeeeeeeee    eeee    eee         ee    eeee    eee    eeeeeeeeeeeeeeeeeeee]
@@ -17,23 +20,24 @@
 [nnn    nnnnnn    nnnnnnnnny        nnnnnnnnnnn    nnnnnn    nn    nnnnnnn    nnnnnnnn]
 [yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy]
 [!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
-<span> </span>
+
+
 <strong>tiffanyfu7@GitHub</strong>:~$ whoami
 I am a second year CS student at <em>Columbia University</em>!
-I am interested in <em>HCI + AI</em>.
+I am interested in <em> HCI + AI </em>.
 I also enjoy playing tennis, listening to music, and traveling. 
-<span> </span>
+
 <strong>tiffanyfu7@GitHub</strong>:~$ ls
 Current-Projects
 Current-Classes
-<span> </span>
+
 <strong>tiffanyfu7@GitHub</strong>:~$ cat Current-Projects
 My current CS Tinkerings
 ~ Adding Guest Book to GitHub profile
 ~ React Personal Portfolio
 ~ Crossword Puzzle Generator
 ~ Learning Unity
-<span> </span>
+
 <strong>tiffanyfu7@GitHub</strong>:~$ cat Current-Classes
 I am taking the following classes abroad at HKUST
 ~ Exploring Artificial Intelligence
@@ -41,17 +45,18 @@ I am taking the following classes abroad at HKUST
 ~ IoT: Integrated Systems Design
 ~ Introduction to Electro-Robot Design
 In the past I've taken: Advanced Programming, DSA, Discrete Math, MTV Calc
-<span> </span>
+
 <strong>tiffanyfu7@GitHub</strong>:~$ exit
 Thanks for Visiting! 👋
 Hope to see you around the interweb
-    </body>
+     </body>
   </pre>
 </html>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiffanyfu7&theme=node)
 ![Tiffany's Github stats](https://github-readme-stats.vercel.app/api?username=tiffanyfu7&show_icons=true&theme=node&rank_icon=github)
 
+<html>
 <div id="badges">
   <a href="www.linkedin.com/in/tiffanyfu7">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -63,6 +68,7 @@ Hope to see you around the interweb
     <img src="https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=white" alt="Substack Badge"/>
   </a>
 </div>
+</html>
 
 <!-- 
 Here are some ideas to get you started:
