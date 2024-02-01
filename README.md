@@ -19,8 +19,8 @@
 [!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 <span> </span>
 <strong>tiffanyfu7@GitHub</strong>:~$ whoami
-I am a second year CS student at <mark>Columbia University</mark>!
-I am interested in <strong>HCI + AI</strong>.
+I am a second year CS student at <em>Columbia University</em>!
+I am interested in <em>HCI + AI</em>.
 I also enjoy playing tennis, listening to music, and traveling. 
 <span> </span>
 <strong>tiffanyfu7@GitHub</strong>:~$ ls
@@ -40,6 +40,7 @@ I am taking the following classes abroad at HKUST
 ~ Human-Computer Interaction
 ~ IoT: Integrated Systems Design
 ~ Introduction to Electro-Robot Design
+In the past I've taken: Advanced Programming, DSA, Discrete Math, MTV Calc
 <span> </span>
 <strong>tiffanyfu7@GitHub</strong>:~$ exit
 Thanks for Visiting! 👋
