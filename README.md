@@ -1,24 +1,25 @@
 <html>
   <body>
     <pre>
-#######################################################################################
-[hhhhhhhhhhhhhhhhhhhh    hhhh    hhh         hh    hhhh    hhh    hhhhhhhhhhhhhhhhhhhh!
-[eeeeeeeeeeeeeeeeeeee    eeee    eee    eeeeeeee    ee    eeee    eeeeeeeeeeeeeeeeeeee!
-[llllllllllllllllllll            lll        lllll        lllll    llllllllllllllllllll!
-[llllllllllllllllllll    llll    lll    lllllllllll    lllllllllllllllllllllllllllllll!
-[oooooooooooooooooooo    oooo    ooo         oooooo    ooooooo    oooooooooooooooooooo!
-i'mi'mi'mi'mi'mi'mi'mi'mi'mi'mi'mi'mi'mi'mi'mi'mi'mi'mi'mi'mi'mi'mi'mi'mi'mi'mi'mi'mi'm
-{ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt|
-{iii    ii            ii  iii        iiiiii            ii    ii         ii         iii|
-{fff    ffffff    fffffff ff    fffffffffffffff    ffffff    ff    fffffff    ffffffff|
-{fff    ffffff    fffffffffff       fffffffffff    ffffff    ff       ffff       fffff|
-{aaa    aaaaaa    aaaaaaaaaaaaaa     aaaaaaaaaa    aaaaaa    aa    aaaaaaa    aaaaaaaa|
-{nnn    nnnnnn    nnnnnnnnny        nnnnnnnnnnn    nnnnnn    nn    nnnnnnn    nnnnnnnn|
-{yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy|
-#######################################################################################
+[#####################################################################################]
+[hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh]
+[eeeeeeeeeeeeeeeeeeee    eeee    eee         ee    eeee    eee    eeeeeeeeeeeeeeeeeeee]
+[llllllllllllllllllll    llll    lll    llllllll    ll    llll    llllllllllllllllllll]
+[llllllllllllllllllll            lll        lllll        lllll    llllllllllllllllllll]
+[oooooooooooooooooooo    oooo    ooo    ooooooooooo    ooooooooooooooooooooooooooooooo]
+[iiiiiiiiiiiiiiiiiiii    iiii    iii         iiiiii    iiiiiii    iiiiiiiiiiiiiiiiiiii]
+[mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm]
+[ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt]
+[iii    ii            ii  iii        iiiiii            ii    ii         ii         iii]
+[fff    ffffff    fffffff ff    fffffffffffffff    ffffff    ff    fffffff    ffffffff]
+[fff    ffffff    fffffffffff       fffffffffff    ffffff    ff       ffff       fffff]
+[aaa    aaaaaa    aaaaaaaaaaaaaa     aaaaaaaaaa    aaaaaa    aa    aaaaaaa    aaaaaaaa]
+[nnn    nnnnnn    nnnnnnnnny        nnnnnnnnnnn    nnnnnn    nn    nnnnnnn    nnnnnnnn]
+[yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy]
+[!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 <span> </span>
 <strong>tiffanyfu7@GitHub</strong>:~$ whoami
-I am a second year CS student at <strong>Columbia University</strong>!
+I am a second year CS student at <mark>Columbia University</mark>!
 I am interested in <strong>HCI + AI</strong>.
 I also enjoy playing tennis, listening to music, and traveling. 
 <span> </span>
