@@ -53,13 +53,13 @@ Hope to see you around the interweb
 
 <html>
 <div id="badges">
-  <a href="www.linkedin.com/in/tiffanyfu7">
+  <a href="htps://www.linkedin.com/in/tiffanyfu7">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="www.youtube.com/@tiffanyfu">
+  <a href="https://www.youtube.com/@tiffanyfu">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="www.substack.com/@tiffanyfu">
+  <a href="https://www.substack.com/@tiffanyfu">
     <img src="https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=white" alt="Substack Badge"/>
   </a>
 </div>
