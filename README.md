@@ -49,11 +49,20 @@ Hope to see you around the interweb
   </pre>
 </html>
 
-<a href="www.linkedin.com/in/tiffanyfu7">LinkedIn</a>
-<a href="www.youtube.com/@tiffanyfu">YouTube</a>
-<a href="www.substack.com/@tiffanyfu">Substack</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiffanyfu7&theme=node)
+![Tiffany's Github stats](https://github-readme-stats.vercel.app/api?username=tiffanyfu7&show_icons=true&theme=node&rank_icon=github)
 
-
+<div id="badges">
+  <a href="www.linkedin.com/in/tiffanyfu7">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="www.youtube.com/@tiffanyfu">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="www.substack.com/@tiffanyfu">
+    <img src="https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=white" alt="Substack Badge"/>
+  </a>
+</div>
 
 <!-- 
 Here are some ideas to get you started:
