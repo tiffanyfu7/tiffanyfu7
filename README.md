@@ -4,22 +4,22 @@
       
 Tiffany Fu's Github Profile.
 (c) 2024 TF Inc. All Rights Reserved. 
-[#####################################################################################]
-[hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh]
-[eeeeeeeeeeeeeeeeeeee    eeee    eee         ee    eeee    eee    eeeeeeeeeeeeeeeeeeee]
-[llllllllllllllllllll    llll    lll    llllllll    ll    llll    llllllllllllllllllll]
-[llllllllllllllllllll            lll        lllll        lllll    llllllllllllllllllll]
-[oooooooooooooooooooo    oooo    ooo    ooooooooooo    ooooooooooooooooooooooooooooooo]
-[iiiiiiiiiiiiiiiiiiii    iiii    iii         iiiiii    iiiiiii    iiiiiiiiiiiiiiiiiiii]
-[mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm]
-[ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt]
-[iii    ii            ii  iii        iiiiii            ii    ii         ii         iii]
-[fff    ffffff    fffffff ff    fffffffffffffff    ffffff    ff    fffffff    ffffffff]
-[fff    ffffff    fffffffffff       fffffffffff    ffffff    ff       ffff       fffff]
-[aaa    aaaaaa    aaaaaaaaaaaaaa     aaaaaaaaaa    aaaaaa    aa    aaaaaaa    aaaaaaaa]
-[nnn    nnnnnn    nnnnnnnnny        nnnnnnnnnnn    nnnnnn    nn    nnnnnnn    nnnnnnnn]
-[yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy]
-[!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+[#########################################################################################]
+[hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh]
+[eeeeeeeeeeeeeeeeeeeeee    eeee    eee         ee    eeee    eee    eeeeeeeeeeeeeeeeeeeeee]
+[llllllllllllllllllllll    llll    lll    llllllll    ll    llll    llllllllllllllllllllll]
+[llllllllllllllllllllll            lll        lllll        lllll    llllllllllllllllllllll]
+[oooooooooooooooooooooo    oooo    ooo    ooooooooooo    ooooooooooooooooooooooooooooooooo]
+[iiiiiiiiiiiiiiiiiiiiii    iiii    iii         iiiiii    iiiiiii    iiiiiiiiiiiiiiiiiiiiii]
+[mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm]
+[ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt]
+[iiiii    ii            ii  iii        iiiiii            ii    ii         ii         iiiii]
+[fffff    ffffff    fffffff ff    fffffffffffffff    ffffff    ff    fffffff    ffffffffff]
+[fffff    ffffff    fffffffffff       fffffffffff    ffffff    ff       ffff       fffffff]
+[aaaaa    aaaaaa    aaaaaaaaaaaaaa     aaaaaaaaaa    aaaaaa    aa    aaaaaaa    aaaaaaaaaa]
+[nnnnn    nnnnnn    nnnnnnnnny        nnnnnnnnnnn    nnnnnn    nn    nnnnnnn    nnnnnnnnnn]
+[yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy]
+[!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 
 <strong>tiffanyfu7@GitHub</strong>:~$ whoami
 I am a second year CS student at <em>Columbia University</em>!
