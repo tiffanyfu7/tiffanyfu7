@@ -21,15 +21,10 @@ Tiffany Fu's Github Profile.
 [yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy]
 [!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 
-
 <strong>tiffanyfu7@GitHub</strong>:~$ whoami
 I am a second year CS student at <em>Columbia University</em>!
 I am interested in <em> HCI + AI </em>.
 I also enjoy playing tennis, listening to music, and traveling. 
-
-<strong>tiffanyfu7@GitHub</strong>:~$ ls
-Current-Projects
-Current-Classes
 
 <strong>tiffanyfu7@GitHub</strong>:~$ cat Current-Projects
 My current CS Tinkerings
@@ -53,8 +48,8 @@ Hope to see you around the interweb
   </pre>
 </html>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiffanyfu7&theme=node)
-![Tiffany's Github stats](https://github-readme-stats.vercel.app/api?username=tiffanyfu7&show_icons=true&theme=node&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiffanyfu7&theme=dark)
+![Tiffany's Github stats](https://github-readme-stats.vercel.app/api?username=tiffanyfu7&show_icons=true&theme=dark&rank_icon=github)
 
 <html>
 <div id="badges">
