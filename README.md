@@ -29,7 +29,7 @@ I also enjoy playing tennis, listening to music, and traveling.
 <strong>tiffanyfu7@GitHub</strong>:~$ cat Current-Projects
 My current CS Tinkerings
 ~ Adding Guest Book to GitHub profile
-~ React Personal Portfolio
+~ Spotify App
 ~ Crossword Puzzle Generator
 ~ Learning Unity
 
