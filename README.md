@@ -52,9 +52,9 @@ Hope to see you around the interweb
 
 <html>
   <div align="center">
-    <h5>Leave a Message in my Guestbook!</h5>
+    <h5>Click Below to Sign my Guestbook!</h5>
     <a href="https://gist.github.com/tiffanyfu7/8755c08f13006032469e733cb81e7871"/>
-      <img src="https://github.com/tiffanyfu7/tiffanyfu7/assets/71473099/e5e7ff82-b4e9-4614-ae2c-37dd8592243d" alt="Click here to sign my guestbook!"
+      <img src="https://github.com/tiffanyfu7/tiffanyfu7/assets/71473099/09d8e619-096e-4bc9-ad0d-8a2bf085eece" alt="Click here to sign my guestbook!"
     </a>
     <div id="badges">
       <a href="mailto:tiffany.fu7@gmail.com">
