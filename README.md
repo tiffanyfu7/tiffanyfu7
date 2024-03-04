@@ -52,18 +52,24 @@ Hope to see you around the interweb
 ![Tiffany's Github stats](https://github-readme-stats.vercel.app/api?username=tiffanyfu7&show_icons=true&theme=dark&rank_icon=github)
 
 <html>
-<div id="badges">
-  <a href="mailto:tiffany.fu7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tiffanyfu7" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@tiffanyfu" target="blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.substack.com/@tiffanyfu" target="blank">
-    <img src="https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=white" alt="Substack Badge"/>
-  </a>
-</div>
+  <div align="center">
+    <p>Leave a Message in my Guestbook!</p>
+    <a href="https://gist.github.com/tiffanyfu7/8755c08f13006032469e733cb81e7871.js">
+      <img src="https://github.com/tiffanyfu7/tiffanyfu7/assets/71473099/eadbb884-1144-4bed-bc39-33919cc4f40b" alt="Click here to sign my guestbook!"
+    </a>
+    <div id="badges">
+      <a href="mailto:tiffany.fu7@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+      </a>
+      <a href="https://www.linkedin.com/in/tiffanyfu7" target="blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="https://www.youtube.com/@tiffanyfu" target="blank">
+        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+      </a>
+      <a href="https://www.substack.com/@tiffanyfu" target="blank">
+        <img src="https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=white" alt="Substack Badge"/>
+      </a>
+    </div>
+  </div>
 </html>
