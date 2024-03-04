@@ -54,7 +54,7 @@ Hope to see you around the interweb
 <html>
   <div align="center">
     <p>Leave a Message in my Guestbook!</p>
-    <a href="https://gist.github.com/tiffanyfu7/8755c08f13006032469e733cb81e7871.js">
+    <a href="https://gist.github.com/tiffanyfu7/8755c08f13006032469e733cb81e7871"/>
       <img src="https://github.com/tiffanyfu7/tiffanyfu7/assets/71473099/eadbb884-1144-4bed-bc39-33919cc4f40b" alt="Click here to sign my guestbook!"
     </a>
     <div id="badges">
