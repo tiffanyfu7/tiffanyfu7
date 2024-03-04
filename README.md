@@ -28,8 +28,7 @@ I also enjoy playing tennis, listening to music, and traveling.
 
 <strong>tiffanyfu7@GitHub</strong>:~$ cat Current-Projects
 My current CS Tinkerings
-~ Adding Guest Book to GitHub profile
-~ Spotify App
+~ Building a Spotify App
 ~ Crossword Puzzle Generator
 ~ Learning Unity
 
@@ -38,7 +37,7 @@ I am taking the following classes abroad at HKUST
 ~ Exploring Artificial Intelligence
 ~ Human-Computer Interaction
 ~ IoT: Integrated Systems Design
-~ Introduction to Electro-Robot Design
+~ Operating Systems
 In the past I've taken: Advanced Programming, DSA, Discrete Math, MTV Calc
 
 <strong>tiffanyfu7@GitHub</strong>:~$ exit
