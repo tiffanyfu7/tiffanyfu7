@@ -22,22 +22,22 @@ Tiffany Fu's Github Profile.
 [!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 
 <strong>tiffanyfu7@GitHub</strong>:~$ whoami
-I am a second year CS student at <em>Columbia University</em>!
-I am interested in <em> HCI + AI </em>.
+I am a second year CS student at <em>Columbia University</em> 🦁!
+I am interested in <em> HCI + AI </em> 👩🏻‍💻.
 I also enjoy playing tennis, listening to music, and traveling. 
 
 <strong>tiffanyfu7@GitHub</strong>:~$ cat Current-Projects
 My current CS Tinkerings
 ~ Building a Spotify App
 ~ Crossword Puzzle Generator
-~ Learning Unity
+~ Learning Unreal Engine
 
 <strong>tiffanyfu7@GitHub</strong>:~$ cat Current-Classes
 I am taking the following classes abroad at HKUST
-~ Exploring Artificial Intelligence
-~ Human-Computer Interaction
-~ IoT: Integrated Systems Design
-~ Operating Systems
+~ 🤖 Exploring Artificial Intelligence
+~ 🦾 Human-Computer Interaction
+~ 🌐 IoT: Integrated Systems Design
+~ 🖥️ Operating Systems
 In the past I've taken: Advanced Programming, DSA, Discrete Math, MTV Calc
 
 <strong>tiffanyfu7@GitHub</strong>:~$ exit
@@ -60,13 +60,16 @@ Hope to see you around the interweb
       <a href="mailto:tiffany.fu7@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
       </a>
-      <a href="https://www.linkedin.com/in/tiffanyfu7" target="blank">
+      <a href = "https://tiffanyfu.me" target="_blank">
+        <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Site Badge"/>
+      </a>
+      <a href="https://www.linkedin.com/in/tiffanyfu7" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
-      <a href="https://www.youtube.com/@tiffanyfu" target="blank">
+      <a href="https://www.youtube.com/@tiffanyfu" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
       </a>
-      <a href="https://www.substack.com/@tiffanyfu" target="blank">
+      <a href="https://www.substack.com/@tiffanyfu" target="_blank">
         <img src="https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=white" alt="Substack Badge"/>
       </a>
     </div>
