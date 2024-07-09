@@ -22,18 +22,13 @@ Tiffany Fu's Github Profile.
 [!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 
 <strong>tiffanyfu7@GitHub</strong>:~$ whoami
-I am a second year CS student at <em>Columbia University</em> 🦁!
+Full Stack Engineering Intern at <a href="https://github.com/tiffanyfu-v">Voltus</a>
+I am a second year CS student at <a href="https://www.cs.columbia.edu">Columbia University</a> 🦁!
 I am interested in <em> HCI + AI </em> 👩🏻‍💻.
 I also enjoy playing tennis, listening to music, and traveling. 
 
-<strong>tiffanyfu7@GitHub</strong>:~$ cat Current-Projects
-My current CS Tinkerings
-~ Building a Spotify App
-~ Crossword Puzzle Generator
-~ Learning Unreal Engine
-
 <strong>tiffanyfu7@GitHub</strong>:~$ cat Current-Classes
-I am taking the following classes abroad at HKUST
+I took the following classes abroad at HKUST
 ~ 🤖 Exploring Artificial Intelligence
 ~ 🦾 Human-Computer Interaction
 ~ 🌐 IoT: Integrated Systems Design
