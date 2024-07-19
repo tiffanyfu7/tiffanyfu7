@@ -28,6 +28,7 @@ I am interested in <em> HCI + AI </em> 👩🏻‍💻.
 I also enjoy playing tennis, listening to music, and traveling. 
 
 <strong>tiffanyfu7@GitHub</strong>:~$ cat Current-Classes
+Learning AI/ML with <a href="https://tech.cornell.edu/impact/break-through-tech/break-through-ai/">Break Through Tech</a>
 I took the following classes abroad at HKUST
 ~ 🤖 Exploring Artificial Intelligence
 ~ 🦾 Human-Computer Interaction
@@ -42,8 +43,8 @@ Hope to see you around the interweb
   </pre>
 </html>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiffanyfu7&theme=dark)
-![Tiffany's Github stats](https://github-readme-stats.vercel.app/api?username=tiffanyfu7&show_icons=true&theme=dark&rank_icon=github)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiffanyfu7&theme=dark)) -->
+<!-- ![Tiffany's Github stats](https://github-readme-stats.vercel.app/api?username=tiffanyfu7&show_icons=true&theme=dark&rank_icon=github)) -->
 
 <html>
   <div align="center">
