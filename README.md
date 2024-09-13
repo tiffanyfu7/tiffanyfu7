@@ -22,19 +22,17 @@ Tiffany Fu's Github Profile.
 [!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 
 <strong>tiffanyfu7@GitHub</strong>:~$ whoami
-Full Stack Engineering Intern at <a href="https://github.com/tiffanyfu-v">Voltus</a>
-I am a second year CS student at <a href="https://www.cs.columbia.edu">Columbia University</a> 🦁!
-I am interested in <em> HCI + AI </em> 👩🏻‍💻.
+I am a third year CS student at <a href="https://www.cs.columbia.edu">Columbia University</a> 🦁!
+Currently an AI/ML Break Through Tech Fellow + Interview Prep Student with CodePath
+I am interested in <em> IoT + SWE + HCI + AI </em> 👩🏻‍💻.
 I also enjoy playing tennis, listening to music, and traveling. 
 
 <strong>tiffanyfu7@GitHub</strong>:~$ cat Current-Classes
-Learning AI/ML with <a href="https://tech.cornell.edu/impact/break-through-tech/break-through-ai/">Break Through Tech</a>
-I took the following classes abroad at HKUST
-~ 🤖 Exploring Artificial Intelligence
-~ 🦾 Human-Computer Interaction
-~ 🌐 IoT: Integrated Systems Design
-~ 🖥️ Operating Systems
-In the past I've taken: Advanced Programming, DSA, Discrete Math, MTV Calc
+ 🖥️ Fundamentals of Computer Systems
+ 🤖 Natural Language Processing
+ 🌐 Elements of Data Science
+ 📐 Ordinary Differential Equations
+Previously: Advanced Programming, OS, HCI, IoT, DSA
 
 <strong>tiffanyfu7@GitHub</strong>:~$ exit
 Thanks for Visiting! 👋
