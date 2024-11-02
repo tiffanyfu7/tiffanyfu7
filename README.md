@@ -42,7 +42,24 @@ Hope to see you around the interweb
 </html>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiffanyfu7&theme=dark)) -->
-<!-- ![Tiffany's Github stats](https://github-readme-stats.vercel.app/api?username=tiffanyfu7&show_icons=true&theme=dark&rank_icon=github)) -->
+<!-- ![Tiffany's Github stats](https://github-readme-stats.vercel.app/api?username=tiffanyfu7&show_icons=true&theme=dark&rank_icon=github) -->
+
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=fff&style=plastic)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 <html>
   <div align="center">
