@@ -41,10 +41,6 @@ Hope to see you around the interweb
   </pre>
 </html>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiffanyfu7&theme=dark)) -->
-<!-- ![Tiffany's Github stats](https://github-readme-stats.vercel.app/api?username=tiffanyfu7&show_icons=true&theme=dark&rank_icon=github) -->
-
-
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
@@ -60,6 +56,9 @@ Hope to see you around the interweb
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiffanyfu7&theme=dark) -->
+![Tiffany's Github stats](https://github-readme-stats.vercel.app/api?username=tiffanyfu7&show_icons=true&theme=dark&rank_icon=github)
 
 <html>
   <div align="center">
