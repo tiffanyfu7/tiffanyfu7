@@ -28,11 +28,10 @@ I am interested in <em> IoT + SWE + HCI + AI </em> 👩🏻‍💻
 I also enjoy playing tennis, listening to music, and traveling
 
 <strong>tiffanyfu7@GitHub</strong>:~$ cat Current-Classes
- 🖥️ Fundamentals of Computer Systems
- 🤖 Natural Language Processing
- 🌐 Elements of Data Science
- 📐 Ordinary Differential Equations
-Previously: Advanced Programming, OS, HCI, IoT, DSA
+ 🖥️ Computer Science Theory
+ 🤖 Machine Learning
+ 🌐 Intro to Databases
+Previously: Advanced Programming, OS, HCI, IoT, DSA, NLP
 
 <strong>tiffanyfu7@GitHub</strong>:~$ exit
 Thanks for Visiting! 👋
