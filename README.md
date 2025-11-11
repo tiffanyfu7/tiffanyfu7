@@ -3,7 +3,7 @@
     <body>
       
 Tiffany Fu's Github Profile.
-(c) 2024 TF Inc. All Rights Reserved. 
+(c) 2025 TF Inc. All Rights Reserved. 
 [#########################################################################################]
 [hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh]
 [eeeeeeeeeeeeeeeeeeeeee    eeee    eee         ee    eeee    eee    eeeeeeeeeeeeeeeeeeeeee]
@@ -22,16 +22,15 @@ Tiffany Fu's Github Profile.
 [!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 
 <strong>tiffanyfu7@GitHub</strong>:~$ whoami
-I am a third year CS student @ <a href="https://www.cs.columbia.edu">Columbia University</a> 🦁!
-Currently an AI/ML Break Through Tech Fellow + Research Assistant @ <a href="https://designtoolslab.org">Design Tools Lab</a>
+I am a fourth year CS student @ <a href="https://www.cs.columbia.edu">Columbia University</a> 🦁
+and Research Assistant @ <a href="https://designtoolslab.org">Design Tools Lab</a>!
 I am interested in <em> IoT + SWE + HCI + AI </em> 👩🏻‍💻
-I also enjoy playing tennis, listening to music, and traveling
+I also enjoy filmmaking, playing tennis, listening to music, and traveling
 
 <strong>tiffanyfu7@GitHub</strong>:~$ cat Current-Classes
- 🖥️ Computer Science Theory
- 🤖 Machine Learning
- 🌐 Intro to Databases
-Previously: Advanced Programming, OS, HCI, IoT, DSA, NLP
+ 🤖 Computational Aspects of Robotics
+ 🌐 Intro to Quantum Computing
+Previously: Machine Learning, Computer Science Theory, Advanced Programming, OS, HCI, IoT, DSA, NLP
 
 <strong>tiffanyfu7@GitHub</strong>:~$ exit
 Thanks for Visiting! 👋
