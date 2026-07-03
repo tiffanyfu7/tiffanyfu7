@@ -22,15 +22,14 @@ Tiffany Fu's Github Profile.
 [!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 
 <strong>tiffanyfu7@GitHub</strong>:~$ whoami
-I am a fourth year CS student @ <a href="https://www.cs.columbia.edu">Columbia University</a> 🦁
-and Research Assistant @ <a href="https://designtoolslab.org">Design Tools Lab</a>!
+I am a recent CS grad of @ <a href="https://www.cs.columbia.edu">Columbia University</a> 🦁
+and <a href="https://designtoolslab.org">Design Tools Lab</a>!
 I am interested in <em> IoT + SWE + HCI + AI </em> 👩🏻‍💻
-I also enjoy filmmaking, playing tennis, listening to music, and traveling
+I also enjoy filmmaking, reading philosophy, playing tennis, and listening to music.
 
-<strong>tiffanyfu7@GitHub</strong>:~$ cat Current-Classes
- 🤖 Computational Aspects of Robotics
- 🌐 Intro to Quantum Computing
-Previously: Machine Learning, Computer Science Theory, Advanced Programming, OS, HCI, IoT, DSA, NLP
+<strong>tiffanyfu7@GitHub</strong>:~$ cat Current-Projects
+Building <a href="https://scraps.social">Scraps</a>
+Reading Existentialism Philosophy
 
 <strong>tiffanyfu7@GitHub</strong>:~$ exit
 Thanks for Visiting! 👋
