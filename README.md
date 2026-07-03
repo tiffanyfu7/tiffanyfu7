@@ -29,7 +29,7 @@ I also enjoy filmmaking, reading philosophy, playing tennis, and listening to mu
 
 <strong>tiffanyfu7@GitHub</strong>:~$ cat Current-Projects
 Building <a href="https://scraps.social">Scraps</a>
-Reading Existentialism Philosophy
+Reading Existentialist Philosophy
 
 <strong>tiffanyfu7@GitHub</strong>:~$ exit
 Thanks for Visiting! 👋
